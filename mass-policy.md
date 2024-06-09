@@ -8,7 +8,7 @@ Here at Mass Utilities we collect data only if Moderators/Admins enable function
 # Deletion 
 * Functions which require data will always have a disable/delete subcommand and running these commands will wipe any data regarding the functionality
 
-# References - 
+# References
 * Mass's developers value high on data and take data protection very seriously and it is a must have!
 
  
